@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">doItOrDont</string>
+    <string name="opt1">Do it.</string>
+    <string name="opt2">Do it, but after <b>30 mins</b>.</string>
+    <string name="opt3">You have got <b>5 minutes</b> to settle down and start doing it.</string>
+    <string name="opt4">Choose, Black or White? If it matches, you do it.</string>
+    <string name="opt5">Heads or Tails? If it matches, you do it.</string>
+    <string name="opt6">Right or left? One has \'Do it\' and the other has \'Don\'t\'</string>
+    <string name="opt7">If you scream as loud as you can right now then you get an hour of break</string>
+    <string name="opt8">Do it, but only for <b>30 mins</b></string>
+    <string name="opt9">Amp yourself up with <b>1</b> motivational song cuz then you start doing it.</string>
+    <string name="opt10">So now that you are free, what are you doing?</string>
+    <string name="opt11">Just, Do it.</string>
+    <string name="opt12">Don\'t do it.</string>
+    <string name="opt13">Just, Don\'t do it.</string>
+    <string name="profile">To reach out to me click <a href="https://www.linkedin.com/in/devdutt-thakkar/">here</a></string>
+    <string name="dare">Don\'t you dare go back Now!</string>
+</resources>
